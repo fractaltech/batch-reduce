@@ -1,0 +1,26 @@
+{
+  "name": "batch-reduce",
+  "version": "1.0.0",
+  "description": "batch-reduce",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fractaltech/batch-reduce.git"
+  },
+  "keywords": [
+    "batch-reduce"
+  ],
+  "author": "Kapil Verma <kapv89@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fractaltech/batch-reduce/issues"
+  },
+  "homepage": "https://github.com/fractaltech/batch-reduce#readme",
+  "devDependencies": {
+    "ramda": "^0.25.0",
+    "tape": "^4.9.1"
+  }
+}
